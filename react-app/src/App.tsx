@@ -1,8 +1,7 @@
-import MapContainer from "./MapContainer.tsx";
+import MapContainer from "./MapContainer";
 
-function App()
-{
-  return <MapContainer />
+export default function App() {
+  return <MapContainer />;
 }
 
-export default App;
+
